@@ -5,4 +5,4 @@ import { JwtStrategy } from './jwt.strategy';
 @Module({
   providers: [JwtStrategy],
 })
-export class Cjwt}
+export class CoreModule {}
